@@ -23,3 +23,5 @@ Thank you to **Sheepy** for developing and designing townyAI, designing TownyCiv
 Thank you to **[Reijvi](https://x.com/Reijvii)** for designing our logo. Check out his resource pack, [Reimagined](https://modrinth.com/resourcepack/reimagined)!
 
 Thank you to **[Leopetra](https://x.com/Leopetra_art)** for producing skins for citystate NPCs. 
+
+Thank you to **Aemadeous** (discord: hamilton6069) for building our server spawn.
