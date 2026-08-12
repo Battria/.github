@@ -9,15 +9,15 @@ this is the github organization for Battria, an in development bleeding edge geo
 ## Developers
 Thank you to **Sophomania** for developing our custom fork of flagwar, several critical WorldCore features such as TNT++, co-designing and developing vitality, as well as developing for townyAI- particularly the war integration for citystates.
 
-Thank you to **Flintstqne** for developing TownyCivics, our bespoke extension of Towny's geopolitical systems, as well as co-designing and developing Banishment, Boutique, and Admincore. We also appreciate his original efforts in maintaining our custom server jar. 
+Thank you to **Flintstqne** for developing TownyCivics, our bespoke extension of Towny's geopolitical systems, as well as co-designing and developing Banishment, Boutique, and Admincore. We also appreciate his original efforts in maintaining our custom server jar, and his help with server administration.
 
-Thank you to **Asdeo** for contributing to the development of our fighter bots, helping tune PVP, as well as contributing builds for townyAI, producing our video tutorials and promotional content, helping manage/administrate the server and head our communications.
+Thank you to **Asdeo** for contributing to the development of our fighter bots, helping tune PVP, as well as contributing builds for townyAI, producing our video tutorials and promotional content, helping manage/administrate the server, heading our communications, and designing and developing our competitive duels ELO system. 
 
 Thank you to _______ for helping to tune our PVP. 
 
-Thank you to Ceedric for helping maintain our custom server jar. 
+Thank you to **Ceedric** for helping maintain our custom server jar. 
 
-Thank you to **Sheepy** for developing and designing townyAI, designing TownyCivics, codesigning Vitality, Banishment, Boutique, development of our fighter bots, and developing our website. 
+Thank you to **Sheepy** for developing and designing townyAI, designing TownyCivics, codesigning Vitality, Banishment, Boutique, development of our fighter bots, design and development of our website, contributions to the design of duels ranks and elo system, and heading game design for Battria as a whole. 
 
 ## Artists
 Thank you to **[Reijvi](https://x.com/Reijvii)** for designing our logo. Check out his resource pack, [Reimagined](https://modrinth.com/resourcepack/reimagined)!
