@@ -25,3 +25,5 @@ Thank you to **[Reijvi](https://x.com/Reijvii)** for designing our logo. Check o
 Thank you to **[Leopetra](https://x.com/Leopetra_art)** for producing skins for citystate NPCs. 
 
 Thank you to **Aemadeous** (discord: hamilton6069) for building our server spawn.
+
+Thank you to **Telix** (discord: telixc0906) for producing official promotional video content.  
